@@ -4,7 +4,7 @@
     <style>
       tr:hover {background-color: rgb(113, 209, 209);}
       body {
-        background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/800px-Marvin_the_Martian.svg.png');
+        background-image: url('https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/162906661279688657.png');
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
@@ -33,8 +33,10 @@
           <div class="media">
             <div class="media-body">
               <h2>Latest Mars News</h2>
-              <h4 class="media-heading">{{ mars.news_title }}</h4>
-              <p>{{ mars.news_paragraph }}</p>
+              <div style="border:5px solid black;padding:2px;background-color: rgba(255,255,255,.8);">
+                <h4 class="media-heading">{{ mars.news_title }}</h4>
+                <p>{{ mars.news_paragraph }}</p>
+              </div>
             </div>
           </div>
         </div>
@@ -52,7 +54,7 @@
         <div class="col-md-4 col-xs-12">
           <!-- Mars Facts -->
           <h4>Mars Facts</h4>
-          <div style="overflow-x:auto;">
+          <div style="background-color: rgba(255,255,255,.8);">
             {{ mars.facts | safe }}
           </div>
         </div>
