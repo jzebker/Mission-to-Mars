@@ -97,7 +97,7 @@ def mars_facts():
     df.dropna(axis=0)
     
     # Convert dataframe into HTML format, add bootstrap
-    return df.to_html(classes="table table-striped")
+    return df.to_html(classes="table")
 
 def mission_to_mars_imgs(browser):
     # 1. Use browser to visit the URL and parse HTML
