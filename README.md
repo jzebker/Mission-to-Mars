@@ -34,4 +34,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 ## Deliverable 3
 
-• now featuring mobile responsive output (works on phones!)
+• now works on mobile phones
+<p align = 'center'>
+  <img src="https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d3mobile.png">
+</p>
