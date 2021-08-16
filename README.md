@@ -23,4 +23,7 @@
   <img src="https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d2hemisection.png">
 </p>
 
-
+• the web app contains all data after the scrape has been completed
+<p align = 'center'>
+  <img src="https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d2completesite.png">
+</p>
