@@ -40,3 +40,8 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 </p>
 
 • added bootstrap components but not overly annoying ones
+  (1) changed scrape button to red because it's Mars
+  (2) added jumbotron background image of Mars at top of page
+  (3) put borders around elements
+  (4) added semi-transparent (for readability) background image
+  (5) [added opacity to table and text boxes for readability](https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d3borders.png)
