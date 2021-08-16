@@ -39,7 +39,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
   <img src="https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d3mobile.png">
 </p>
 
-• added bootstrap components but not overly annoying ones
+• added bootstrap components - emphasis on ***READABILITY***
 
   (1) changed scrape button to red because it's Mars
   
@@ -47,6 +47,6 @@ Robin's web app is looking good and functioning well, but she wants to add more 
   
   (3) put borders around elements
   
-  (4) added semi-transparent (for readability) background image
+  (4) added semi-transparent (for readability) background image of Marvin the Martian
   
   (5) [added opacity to table and text boxes for readability](https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d3borders.png)
