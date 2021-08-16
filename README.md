@@ -11,10 +11,9 @@
 </p>
 
 ## Deliverable 2
-
-[code](https://github.com/jzebker/Mission-to-Mars/blob/main/scraping.py)
-
 • function ***mission_to_mars_imgs(browser)*** retrieves the full-resolution image URL and title for each hemisphere image
+
+[scraping.py](https://github.com/jzebker/Mission-to-Mars/blob/main/scraping.py)
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/84994321/129503284-6836a33e-ed12-476f-9f85-4751b5992c62.png">
 </p>
