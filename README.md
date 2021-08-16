@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/84994321/129503284-6836a33e-ed12-476f-9f85-4751b5992c62.png">
 </p>
 
-• the attached HTML template has also been updated (see picture below)
+• the attached [HTML template](https://github.com/jzebker/Mission-to-Mars/blob/main/templates/index.html) has also been updated (see picture below)
 <p align = 'center'>
   <img src="https://raw.githubusercontent.com/jzebker/Mission-to-Mars/main/Readme_pics/d2hemisection.png">
 </p>
