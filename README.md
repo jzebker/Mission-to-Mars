@@ -17,7 +17,7 @@
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/84994321/129503284-6836a33e-ed12-476f-9f85-4751b5992c62.png">
 </p>
-• the ***Mongo*** database is updated using [app.py](https://github.com/jzebker/Mission-to-Mars/blob/main/app.py)
+• the ***Mongo*** database is updated in [app.py](https://github.com/jzebker/Mission-to-Mars/blob/main/app.py)
 
 • the attached HTML template has also been updated (see picture below)
 
